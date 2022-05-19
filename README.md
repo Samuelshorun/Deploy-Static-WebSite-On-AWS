@@ -6,7 +6,10 @@ Steps
 
 ![Static Hosting](https://user-images.githubusercontent.com/32329381/169233836-eea286f4-4feb-4833-b4c0-ea5b3fad94a3.PNG)
 
-[S3 Bucket Files](https://user-images.githubusercontent.com/32329381/169232850-32d8ddc7-bd0c-4f52-bb1b-aba37836e351.PNG)
+![S3 Bucket Files](https://user-images.githubusercontent.com/32329381/169232850-32d8ddc7-bd0c-4f52-bb1b-aba37836e351.PNG)
+
+![S3 Bucket](https://user-images.githubusercontent.com/32329381/169235056-e57aa507-fc88-4c8a-b2f7-3297adc78092.PNG)
+
 
 2. Configure the bucket for website hosting and secure it using IAM policies.
 
