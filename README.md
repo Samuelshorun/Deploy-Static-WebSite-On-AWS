@@ -26,4 +26,7 @@ access  website in a browser using the unique CloudFront endpoint.
 
 ![d1v0m6drc73nil cloudfront net](https://user-images.githubusercontent.com/32329381/169233460-616b4fcf-574c-412f-a741-8df14514b16b.PNG)
 
+
+Check here https://d1v0m6drc73nil.cloudfront.net
+
 Copy Right @ ALX-Udacity
